@@ -27,3 +27,8 @@ ul .recipe:hover {
     text-decoration: underline dashed;
     color: hsl(0, 0%, 20%); 
 }
+
+img {
+ height: 500px;
+ width: auto;
+}
