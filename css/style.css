@@ -14,3 +14,16 @@ body {
     color: white;
     font-weight: 1000;
 }
+
+ul .recipe  {
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+}
+
+ul .recipe:hover {
+    font-weight: bold;
+    text-decoration: underline dashed;
+    color: hsl(0, 0%, 20%); 
+}
