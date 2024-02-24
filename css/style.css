@@ -1,4 +1,16 @@
+body {
+    background-color: hsl(190, 90%, 98%);
+}
+
+* {
+    font-family: Verdana, sans-serif;
+}
+
 #title {
     font-family: 'Courier New', monospace;
     font-size: 75px;
+    text-align: center;
+    background-color: hsl(190, 40%, 60%);
+    color: white;
+    font-weight: 1000;
 }
